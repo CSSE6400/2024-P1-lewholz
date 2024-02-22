@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "2024-p1-lewholz"
+version = "0.1.0"
+description = ""
+authors = ["Lewin Scholz <lewin.scholz@outlook.de>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+flask = "^3.0.2"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
